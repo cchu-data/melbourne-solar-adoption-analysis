@@ -65,7 +65,7 @@ melbourne-solar-adoption-analysis/
 ## How to Run
 
 1. Clone the repository
-2. Create and activate a virtual environment
+2. Create and activate a virtual environment (optional)
 3. Install dependencies:
 ```
 pip install pandas geopandas numpy scikit-learn folium matplotlib seaborn jupyter
